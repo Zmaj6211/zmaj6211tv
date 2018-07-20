@@ -14,3 +14,67 @@ http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
 #EXTINF:-1 tvg-name="RTL" tvg-logo="http://www.rtlgroup.com/files/jpg1/RTL_Televizija_Logo.jpg" group-title="HRVATSKA",RTL
 http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
+#EXTINF:-1,  pink
+http://87.116.151.5:8080/live/encoded/stream/71.ts
+#EXTINF:-1 ,  Happy
+http://87.116.151.5:8080/live/encoded/stream/72.ts
+#EXTINF:-1 .  Arena Sport 2
+http://87.116.151.5:8080/live/encoded/stream/104.ts
+#EXTINF:-1 .  Arena
+http://87.116.151.5:8080/live/encoded/stream/103.ts
+#EXTINF:-1 ,  Pink 2
+http://87.116.151.5:8080/live/encoded/stream/97.ts
+#EXTINF:-1 ,  Fox Life
+http://87.116.151.5:8080/live/encoded/stream/98.ts
+Animal Planeta
+http://87.116.151.5:8080/live/encoded/stream/95.ts
+#EXTINF:-1, Pink Comedy
+http://www.jagledam.com/Pink-Comedy-uzivo-stream
+#EXTINF:-1 ,  Pink Film
+http://87.116.151.5:8080/live/encoded/stream/89.ts
+#EXTINF:-1 ,  Pink Movie
+http://87.116.151.5:8080/live/encoded/stream/82.ts
+#EXTINF:-1 ,  Arena Sport 1
+http://87.116.151.5:8080/live/encoded/stream/83.ts
+#EXTINF:-1 ,  Rts 1
+http://87.116.151.5:8080/live/encoded/stream/69.ts
+#EXTINF:-1 ,  O2 tv
+http://87.116.151.5:8080/live/encoded/stream/73.ts
+#EXTINF:-1 ,  Pink Family
+http://87.116.151.5:8080/live/encoded/stream/75.ts
+#EXTINF:-1 ,  Pink Kids
+http://87.116.151.5:8080/live/encoded/stream/76.ts
+#EXTINF:-1 ,  Sk1
+http://87.116.151.5:8080/live/encoded/stream/79.ts
+#EXTINF:-1 ,  Sk2
+http://87.116.151.5:8080/live/encoded/stream/80.ts
+Pink Comedy
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5019.ts
+#EXTINF:-1 ,  Pink Crime and Mistery
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5016.ts
+#EXTINF:-1 ,  Pink Acion
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5020.ts
+#EXTINF:-1 ,  Pink Bh
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5024.ts
+#EXTINF:-1 ,  Pink M
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5061.ts
+#EXTINF:-1 ,  Pink Movie
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5055.ts
+#EXTINF:-1 ,  Pink Pedia
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5008.ts
+#EXTINF:-1 ,  Pink Plus
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5023.ts
+#EXTINF:-1 ,  Pink Premium
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5056.ts
+#EXTINF:-1 ,  Pink Romance
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5058.ts
+#EXTINF:-1 ,  Pink Sky and Fantansi
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5015.ts
+#EXTINF:-1 ,  Pink Serije
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5010.ts
+#EXTINF:-1 ,  Pink Triler
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5060.ts
+#EXTINF:-1 ,  Pink Western
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5013.ts
+#EXTINF:-1 ,  Pink Word and Cinema
+http://best4u.tn:8000/live/apksteven540/5a4r9u/5009.ts
