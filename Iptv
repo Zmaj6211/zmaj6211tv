@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-name="HRT 1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-logo="http://tvprofil.net/img/kanali-logo/htv1-logo.png" group-title="HRVATSKA", HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
  
