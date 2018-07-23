@@ -3,6 +3,9 @@
 
 #EXTINF:-1,PINK
 http://46.40.5.99:8000/pink_high
+ 
+#EXTINF:-1,Pink Action 1
+http://supertv.no-ip.net:80/live/live:hdnovaiptv/aKODkCDaCn/352.m3u8
 
 
 #EXTINF:-1,[*SRBIJA*]skip
