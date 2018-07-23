@@ -36,8 +36,6 @@ http://87.116.151.5:8080/live/encoded/stream/72.ts
 
 #EXTINF:-1,[*BOSNA*] skip
 
-#EXTINF:-1,OBN
-http://x-bosna.no-ip.biz:80/live?channelId=18&deviceMac=00:1a:79:45:c5:08&uid=248|User-Agent=VLC/3.0.3 LibVLC/3.0.3
 #EXTINF:-1,BN
 http://tvstream.rtvbn.com:1935/live/stream/chunklist.m3u8
 #EXTINF:-1,F TV
