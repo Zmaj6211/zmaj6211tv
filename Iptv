@@ -3,12 +3,6 @@
 
 #EXTINF:-1,PINK
 http://46.40.5.99:8000/pink_high
-#EXTINF:-1,PINK 2
-http://87.116.151.5:8080/live/encoded/stream/97.ts
-#EXTINF:-1,PINK FAMILY
-http://87.116.151.5:8080/live/encoded/stream/75.ts
-#EXTINF:-1,PINK MOVIE
-http://87.116.151.5:8080/live/encoded/stream/82.ts
 
 
 #EXTINF:-1,[*SRBIJA*]skip
@@ -17,8 +11,6 @@ http://87.116.151.5:8080/live/encoded/stream/82.ts
 http://46.40.5.99:8000/rts_1_high
 #EXTINF:-1,RTS 2
 http://46.40.5.99:8000/rts_2_high
-#EXTINF:-1,RTS 3
-http://87.116.151.5:8080/live/encoded/stream/78.ts
 #EXTINF:-1,RTV 1
 http://46.40.5.99:8000/rtv_1_high
 #EXTINF:-1,RTV 2
@@ -29,10 +21,6 @@ http://46.40.5.99:8000/prva_tv_high
 http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
 #EXTINF:-1,RTV PLUS
 http://stream.rtvpuls.com/broadcasting
-#EXTINF:1, Happy
-http://87.116.151.5:8080/live/encoded/stream/72.ts
-
-
 
 #EXTINF:-1,[*BOSNA*] skip
 
