@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[*PINK*] skip
+#EXTINF:-1,*PINK* 
 
 #EXTINF:-1,PINK
 http://46.40.5.99:8000/pink_high
@@ -8,7 +8,7 @@ http://46.40.5.99:8000/pink_high
 http://supertv.no-ip.net:80/live/live:hdnovaiptv/aKODkCDaCn/352.m3u8
 
 
-#EXTINF:-1,[*SRBIJA*]skip
+#EXTINF:-1,*SRBIJA*
 
 #EXTINF:-1,RTS 1
 http://46.40.5.99:8000/rts_1_high
@@ -25,7 +25,7 @@ http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
 #EXTINF:-1,RTV PLUS
 http://stream.rtvpuls.com/broadcasting
 
-#EXTINF:-1,[*BOSNA*] skip
+#EXTINF:-1,*BOSNA*
 
 #EXTINF:-1,BN
 http://tvstream.rtvbn.com:1935/live/stream/chunklist.m3u8
@@ -38,7 +38,7 @@ http://46.40.5.99:8000/b92_high
 
 
 
-#EXTINF:-1,[*HRVATSKA*] skip
+#EXTINF:-1,*HRVATSKA*
 
 #EXTINF:0, HRT 1
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
@@ -55,7 +55,7 @@ http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
 
 
 
-#EXTINF:-1,[*MUZICKI*] skip
+#EXTINF:-1,*MUZICKI*
 
 #EXTINF:-1,BN MUSIC
 http://x-bosna.no-ip.biz:80/live?channelId=31&deviceMac=00:1a:79:45:c5:08&uid=248|User-Agent=VLC/4.0.0-dev LibVLC/4.0.0-dev
@@ -75,7 +75,7 @@ http://178.132.3.61:80/live?channelId=43&deviceMac=00:1a:79:45:c5:08&uid=248
 http://178.132.3.61:80/live?channelId=44&deviceMac=00:1a:79:45:c5:08&uid=248
 
 
-#EXTINF:-1,[*DISCOVERY*] skip
+#EXTINF:-1,*DISCOVERY*
 
 #EXTINF:-1,HISTORY
 http://46.40.5.99:8000/viasat_history_high
@@ -88,14 +88,14 @@ http://87.116.151.5:8080/live/encoded/stream/91.ts
 #EXTINF:-1,Travel Chanel
 http://46.40.5.99:8000/travel_channel_high
 
-#EXTINF:-1,[*DIJECIJI*] skip
+#EXTINF:-1,*DIJECIJI*
 
 #EXTINF:-1,Disny Chanel
 http://46.40.5.99:8000/disney_channel_high
 #EXTINF:-1,PINK KIDS
 http://87.116.151.5:8080/live/encoded/stream/76.ts
 
-#EXTINF:-1,[*SPORTSKI*] skip
+#EXTINF:-1,*SPORTSKI*
 
 #EXTINF:-1,ARENA SPORT 1
 http://46.40.5.99:8000/arena_1_high
@@ -122,7 +122,7 @@ http://87.116.151.5:8080/live/encoded/stream/103.ts
 #EXTINF:-1,EURO SPORT 2
 http://87.116.151.5:8080/live/encoded/stream/104.ts
 
-#EXTINF:-1,[*FILMSKI*] skip
+#EXTINF:-1,*FILMSKI*
 
 #EXTINF:-1,FILMBOX 
 http://46.40.5.99:8000/filmbox_extra_high
